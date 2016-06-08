@@ -1,0 +1,16 @@
+.rets-sync-details {
+	text-decoration: none;
+	display: inline-block;
+	text-transform: uppercase;
+	background-color: #00a0d2;
+	color: #FFF;
+	padding: 1px 4px;
+	margin-left: 10px;
+	cursor:pointer;
+	border: 1px solid transparent;
+}
+.rets-sync-details:hover {
+	background-color: #FFF;
+	border-color:#00a0d2;
+	color:#00a0d2;
+}
